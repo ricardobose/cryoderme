@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: Apache-2.0
+
+cmake_minimum_required(VERSION 3.20.0)
+
+find_package(Zephyr REQUIRED HINTS $ENV{ZEPHYR_BASE})
+project(cryoderme_v3)
+
+FILE(GLOB app_sources src/*.c)
+target_sources(app PRIVATE ${app_sources})
+
+include(${ZEPHYR_BASE}/cmake/cfb.cmake NO_POLICY_SCOPE)
+
+set(gen_dir ${ZEPHYR_BINARY_DIR}/include/generated/)
+generate_cfb_font_for_target(app fonts/fsex302.ttf ${gen_dir}/cfb_font_fixedsys32.h 8 16 -s 16 --first 32 --last 126)
+generate_cfb_font_for_target(app fonts/JetBrainsMono-Bold.ttf ${gen_dir}/cfb_font_jetbrains_mono_bold.h 26 48 -s 40 --first 32 --last 126)

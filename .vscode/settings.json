@@ -1,0 +1,9 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "files.associations": {
+        "cfb_font_fixedsys32.h": "c"
+    },
+    "nrf-connect.toolchain.path": "PATH"
+}
