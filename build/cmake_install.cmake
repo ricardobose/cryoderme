@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3
+# Install script for directory: C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

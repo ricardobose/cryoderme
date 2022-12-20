@@ -38,8 +38,8 @@ C:\Users\Ricardo\zephyrproject\modules\lib\picolibc\zephyr\Kconfig
 C:\Users\Ricardo\zephyrproject\modules\lib\zscilib\Kconfig.zscilib
 C:\Users\Ricardo\zephyrproject\zephyr\Kconfig
 C:\Users\Ricardo\zephyrproject\zephyr\Kconfig.zephyr
-C:\Users\Ricardo\zephyrproject\zephyr\app\cryoderme_v3\build\Kconfig\Kconfig.dts
-C:\Users\Ricardo\zephyrproject\zephyr\app\cryoderme_v3\build\Kconfig\Kconfig.modules
+C:\Users\Ricardo\zephyrproject\zephyr\app\cryoderme_v4\build\Kconfig\Kconfig.dts
+C:\Users\Ricardo\zephyrproject\zephyr\app\cryoderme_v4\build\Kconfig\Kconfig.modules
 C:\Users\Ricardo\zephyrproject\zephyr\arch\Kconfig
 C:\Users\Ricardo\zephyrproject\zephyr\arch\arm\Kconfig
 C:\Users\Ricardo\zephyrproject\zephyr\arch\arm\core\aarch32\Kconfig

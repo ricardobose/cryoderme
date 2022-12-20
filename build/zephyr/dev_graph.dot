@@ -1,4 +1,4 @@
-// C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/zephyr_pre0.elf
+// C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/zephyr_pre0.elf
 digraph "Device dependency graph" {
 	9 [label="rcc@40021000\nOrdinal: 9 | Handle: 1\n/soc/rcc@40021000"]
 	38 [label="interrupt-controller@40010400\nOrdinal: 38 | Handle: 2\n/soc/interrupt-controller@40010400"]
@@ -13,15 +13,15 @@ digraph "Device dependency graph" {
 	15 [label="adc@50000000\nOrdinal: 15 | Handle: 11\n/soc/adc@50000000"]
 	69 [label="i2c@40005400\nOrdinal: 69 | Handle: 12\n/soc/i2c@40005400"]
 	70 [label="ssd1306@3c\nOrdinal: 70 | Handle: 13\n/soc/i2c@40005400/ssd1306@3c"]
-	9 -> 47
-	9 -> 26
 	9 -> 29
+	9 -> 47
 	9 -> 73
-	9 -> 71
+	9 -> 26
 	9 -> 72
-	9 -> 42
-	9 -> 69
+	9 -> 71
 	9 -> 15
 	9 -> 74
+	9 -> 69
+	9 -> 42
 	69 -> 70
 }

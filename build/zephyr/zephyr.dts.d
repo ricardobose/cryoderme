@@ -17,5 +17,5 @@ empty_file.o: C:/Users/Ricardo/zephyrproject/zephyr/misc/empty_file.c \
  C:/Users/Ricardo/zephyrproject/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h \
  C:/Users/Ricardo/zephyrproject/zephyr/boards/arm/nucleo_f303re/arduino_r3_connector.dtsi \
  C:/Users/Ricardo/zephyrproject/zephyr/boards/shields/ssd1306/sh1106_128x64.overlay \
- C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/boards/NUCLEO_F303RE.overlay \
+ C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/boards/NUCLEO_F303RE.overlay \
  C:/Users/Ricardo/zephyrproject/zephyr/include/zephyr/dt-bindings/adc/adc.h

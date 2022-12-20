@@ -39,26 +39,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/lib/libc/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/lib/libc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/lib/posix/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/lib/posix/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/lib/os/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/lib/os/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/lib/util/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/lib/util/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/lib/smf/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/lib/smf/cmake_install.cmake")
 endif()
 

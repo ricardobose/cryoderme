@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/modules/ti/simplelink/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/modules/ti/simplelink/cmake_install.cmake")
 endif()
 

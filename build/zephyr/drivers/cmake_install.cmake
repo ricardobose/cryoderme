@@ -39,76 +39,76 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/interrupt_controller/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/interrupt_controller/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/misc/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/misc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/pcie/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/pcie/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/disk/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/disk/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/usb/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/usb/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/usbc/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/usbc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/adc/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/adc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/clock_control/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/clock_control/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/console/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/console/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/display/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/display/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/gpio/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/gpio/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/i2c/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/i2c/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/serial/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/serial/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/timer/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/timer/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v3/build/zephyr/drivers/pinctrl/cmake_install.cmake")
+  include("C:/Users/Ricardo/zephyrproject/zephyr/app/cryoderme_v4/build/zephyr/drivers/pinctrl/cmake_install.cmake")
 endif()
 
